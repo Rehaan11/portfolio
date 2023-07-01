@@ -11,7 +11,7 @@ const introdata = {
     second: "I code cool websites",
   },
   description:
-    "I am an final year undergraduate student based in India who is passionate about Front-End React Developer, and I love to create beautiful and performant products with delightful user experiences.",
+    "I am an undergraduate engineer based in India who is passionate about Front-End React Developer, and I love to create beautiful and performant products with delightful user experiences.",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
